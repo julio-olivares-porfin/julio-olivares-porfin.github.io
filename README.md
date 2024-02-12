@@ -2,7 +2,7 @@
 
 Hola buenos días
 
-
+Todo lo hice desde cero con bootstrap
 
 En este link pueden acceder directamente a mi github page
 
