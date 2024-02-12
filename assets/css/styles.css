@@ -59,12 +59,16 @@ font-weight: 200;
 }
 
 h4 {
+font-family: 'Playfair Display', serif;
 text-decoration: underline;
 text-decoration-color: lime;
+font-size:larger;
 }
 
 #habilidades p {
   text-decoration: underline;
+  font-family: 'Playfair Display', serif;
+  font-size: small;
 }
 
 code {
@@ -77,13 +81,28 @@ code {
   font-family: menlo, monospace;
 }
 
+#experiencia {
+  padding: 30px;
+}
+
+#portafolio {
+  background-color:lightgray;
+  padding: 30px;
+}
+
+
+.card-title {
+  font-weight: 100;
+  font-family: 'Playfair Display', serif;
+}
+
 
 
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
-  height: 250px;
+#portafolio .image-top {
+  height: 350px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
