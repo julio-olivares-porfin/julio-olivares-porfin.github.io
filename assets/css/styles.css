@@ -14,17 +14,20 @@ padding: 10px;
 .navbar-brand:hover {
   text-decoration: underline;
   text-decoration-color: lime;
+  display: flex;
 }
 
 h1 {
 font-family: 'Playfair Display', serif;
-color:lime;
-font-weight: 200;
+color:rgba(115, 0, 255, 0.683);
+text-align:end;
+display: flex;
 }
 /* Hero Section */
 
 #hero-section .container {
-  background-image: url("../img/portraitjo_bw.png");
+  display: flex;
+  ;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right;
